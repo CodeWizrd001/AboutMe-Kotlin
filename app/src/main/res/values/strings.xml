@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Tony Stark</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Anthony Edward Stark was a billionaire industrialist, a founding member of the Avengers,
+        and the former CEO of Stark Industries.
+        \n\nA brash but brilliant inventor, Stark was self-described
+        as a genius, billionaire, playboy, and philanthropist.
+        \nWith his great wealth and exceptional technical knowledge,
+        Stark was one of the world\'s most powerful men following the deaths of his parents
+        and enjoyed the playboy lifestyle for many years until he was kidnapped by the Ten Rings in Afghanistan,
+        while demonstrating a fleet of Jericho missiles.
+        \n\nWith his life on the line, Stark created an armored suit
+        which he used to escape his captors. Upon returning home, he utilized several more armors to use against
+        terrorists, as well as Obadiah Stane who turned against Stark.
+        \n\nStark enjoyed the fame that came with his
+        new secret identity and decided to share it with the world, publicly revealing himself as Iron Man.
+        \nhttps://marvelcinematicuniverse.fandom.com/wiki/Iron_Man
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
